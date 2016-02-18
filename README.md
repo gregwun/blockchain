@@ -1,2 +1,2 @@
 # blockchain
-Not Bitcoin, but close...
+Not Bitcoin, but close... getting set up
